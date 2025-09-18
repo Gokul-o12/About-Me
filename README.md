@@ -1,69 +1,62 @@
-<h1 align="center">Hi 👋, I'm Gokul T</h1>
-<h3 align="center">🚀 Full Stack Developer | Java | React | Cloud | DevOps</h3>
+<h1 align="center">Hi , I'm Gokul T</h1>
+<h3 align="center">Full Stack Developer | Java | React | REST APIs | SQL</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gokult&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/gokult?tab=followers"><img src="https://img.shields.io/github/followers/gokult?label=Followers&style=social" alt="GitHub Followers"></a>
-</p>
+</p> -->
 
 ---
 
-### 💡 About Me
-- 🔭 Currently working on **Scalable Microservices, Cloud Applications, and Real-time Systems**  
-- 🌱 Learning & exploring **AI integrations, DevOps automation, and system design**  
-- 💬 Ask me about **Full Stack Development, Java Spring Boot, React.js, PostgreSQL, Microservices**  
-- 📫 Reach me at **tgokul539@gmail.com**  
-- ⚡ Fun fact: *I love solving real-world problems with clean code and scalable architecture*  
+## About Me
+
+I'm **Gokul T**, a passionate **Full-Stack Developer** from Erode, Tamil Nadu, India, currently working at [**Sholas Technologies**](https://www.sholas.io).  
+
+With **1 year of experience**, I specialize in building **scalable, user-focused web applications** that combine seamless **frontend design** with reliable **backend systems**.
+
+At [**Sholas Technologies**](https://www.sholas.io), I contribute to designing and developing solutions that emphasize **performance, usability, and user experience**, while collaborating in dynamic, fast-paced environments.
+
+What drives me:  
+- **Innovation** – Exploring new technologies to stay ahead of industry trends  
+- **Collaboration** – Working with diverse teams to solve problems effectively  
+- **Continuous Learning** – Expanding my skills in modern frameworks and tools  
+- **User Experience** – Designing intuitive, responsive, and accessible interfaces  
+
+I’m always eager to push boundaries, create impactful solutions, and deliver **cutting-edge applications** that make a real difference.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend:**  
-`React.js` · `JavaScript (ES6+)` · `HTML5` · `CSS3` · `Bootstrap`  
+`React.js` · `JavaScript (ES6+)` · `HTML5` · `CSS3` · `Bootstrap`· `Tailwind CSS`  
 
 **Backend:**  
-`Java (Spring Boot)` · `Node.js` · `Python (Flask)`  
+`Java` · `Python` · `Spring Boot` · `Node.js`  
 
 **Database & Messaging:**  
 `PostgreSQL` · `MongoDB` · `MySQL` · `Kafka`  
 
-**Cloud & DevOps:**  
-`Docker` · `Kubernetes` · `AWS` · `CI/CD (GitHub Actions, Jenkins)`  
-
 **Other Tools:**  
-`Git & GitHub` · `Postman` · `Swagger` · `VS Code / IntelliJ`  
+`Git & GitHub` · `Postman` · `VS Code / IntelliJ / Eclipse` · `Camunda`
 
 ---
 
-### 📂 Featured Projects
-- 📊 **Expense Tracker App** – Full-stack app with reporting, charts, and PDF export  
-- 📑 **Smart Document Management System (SDMS)** – Document workflow with role-based access  
-- 🛒 **E-commerce Microservices** – Kafka + MongoDB + Spring Boot + Camunda workflow integration  
-- 🎙️ **Real-time Voice Bot** – AI-powered call automation with STT, LLM, and TTS integration  
-
-👉 Check out my pinned repositories for more!  
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gokult&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gokult&theme=tokyonight&hide_border=true" />
-</p>
+### Featured Projects
+- **Papex – AI-Powered Document Intelligence Platform** – Extracts structured data from documents using OCR and AI with dynamic prompt systems and interactive dashboards 
+- **ATOM2 – Business Website** – Responsive multi-page website with smooth scroll animations and interactive UI components 
+- **Expense Tracker – Personal Expense Tracker App** – Tracks daily expenses with real-time charts, interactive filters, and reports
+   
+👉 Check out my repositories for more!  
 
 ---
 
 ### 🌍 Let's Connect  
 <p align="left">
-  <a href="https://www.linkedin.com/in/gokul-t" target="_blank">
+  <a href="https://www.linkedin.com/in/gokul-t-5286182a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tgokul539@gmail.com">
+  <a href="mailto:amgokult@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.sholas.io" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>

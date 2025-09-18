@@ -52,14 +52,8 @@ I’m always eager to push boundaries, create impactful solutions, and deliver *
 ---
 
 ### 🌍 Let's Connect  
-<p align="left">
-  <a href="https://www.linkedin.com/in/gokul-t-5286182a3/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:amgokult@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-t-5286182a3/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:amgokult@gmail.com)  
 
 ---
 
